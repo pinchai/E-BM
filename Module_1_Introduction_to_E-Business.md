@@ -198,18 +198,6 @@ Identify **5 local businesses** that use E-Business.
 | School | Online registration |
 | Pharmacy | Online ordering |
 
-## Activity 2
-
-Compare a traditional business with an E-Business.
-
-| Criteria | Traditional Business | E-Business |
-|----------|----------------------|------------|
-| Location | | |
-| Payment | | |
-| Operating Hours | | |
-| Customer Reach | | |
-| Marketing | | |
-
 ---
 
 # Group Discussion
