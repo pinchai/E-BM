@@ -1,7 +1,5 @@
 # Module 1 — Introduction to E-Business
 
-**Duration:** 2 Hours
-
 ## Learning Outcomes
 
 By the end of this lesson, students will be able to:
@@ -9,27 +7,10 @@ By the end of this lesson, students will be able to:
 - Define Business and E-Business.
 - Explain the evolution of E-Business.
 - Compare Traditional Business with E-Business.
-- Distinguish between E-Commerce and E-Business.
+- indentify between E-Commerce and E-Business.
 - Explain the importance, benefits, and challenges of E-Business.
 - Identify current E-Business trends.
 - Recognize local businesses that use E-Business.
-
----
-
-## Lesson Outline
-
-| Topic | Time |
-|--------|------|
-| Introduction | 10 min |
-| Business & E-Business | 20 min |
-| Evolution of E-Business | 15 min |
-| Traditional vs E-Business | 15 min |
-| E-Commerce vs E-Business | 15 min |
-| Importance, Benefits & Challenges | 20 min |
-| Current Trends | 10 min |
-| Practical Activity & Discussion | 15 min |
-
----
 
 # 1. What is Business?
 
