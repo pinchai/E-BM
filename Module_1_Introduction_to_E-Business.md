@@ -214,4 +214,4 @@ Identify **5 local businesses** that use E-Business.
 
 1. Find three businesses that use E-Business.
 2. Describe the technologies they use.
-3. Explain how technology improves customer experience (150–200 words).
+3. Explain how technology improves customer experience.
