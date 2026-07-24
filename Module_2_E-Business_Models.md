@@ -1,4 +1,4 @@
-# Module 2 --- E-Business Models (2 Hours)
+# Module 2 --- E-Business Models
 
 ## Learning Outcomes
 
@@ -6,7 +6,6 @@ After completing this module, students will be able to:
 
 -   Explain the concept of an E-Business model.
 -   Identify different types of E-Business models.
--   Differentiate between various revenue models.
 -   Analyze real-world companies based on their business and revenue
     models.
 -   Classify businesses according to how they operate online.
