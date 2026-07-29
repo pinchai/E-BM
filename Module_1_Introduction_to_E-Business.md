@@ -200,7 +200,7 @@ Identify **5 local businesses** that use E-Business.
 
 ---
 
-# Group Discussion
+# Homework
 
 1. Why are many businesses moving online?
 2. What are the biggest advantages of E-Business?
@@ -210,7 +210,7 @@ Identify **5 local businesses** that use E-Business.
 
 ---
 
-# Homework
+# Group Discussion
 
 1. Find three businesses that use E-Business.
 2. Describe the technologies they use.
